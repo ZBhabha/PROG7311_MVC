@@ -2,7 +2,9 @@
 PROG7311 MVC WEB APP WITH SQL SERVER DATABASE
 
 *Sample login details for lecturer testing:
+
 Employee details Admin ID: Admin100 Password: admin590
+
 Farmer Farmer ID: 102 Password: 4321
 
 This web application is a stock management website for Farm Central which allows farmers to add products to their profiles and employees to view all products added by each farmer. Farmers and employees can update products. Employees can add new farmers to the database. The website allows the user to filter through the data by product type or by date range making it easy to locate required data. The website is easy to use and straightforward, all instructions are clear. The look and layout of the website is neat and minimalistic, making it the perfect environment to manage stock.
